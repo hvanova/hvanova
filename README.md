@@ -1,6 +1,6 @@
-## Experienced research scientist in computational analysis, modeling, and data visualization.
-## Currently working on a variety of small data visualization projects. 
-## Looking to collaborate on modeling long-term climate variability, climate predictability and simulation, coupled ocean-atmosphere climate dynamics, and scientific communication as it relates to risk management, climate impact assessments, and policy initiatives. 
+# Pronouns: she/her
+# Currently working on a small data visualization project with police scorecards and urban metrics. 
+# Looking to collaborate on modeling climate variability, system simulations, policy analysis, and data visualization. 
 
 <!--
 **hvanova/hvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
