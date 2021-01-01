@@ -1,6 +1,6 @@
-# Pronouns: she/her
-# Currently working on a small data visualization project with police scorecards and urban metrics. 
-# Looking to collaborate on modeling climate variability, system simulations, policy analysis, and data visualization. 
+### Pronouns: she/her
+#### Currently working on a small data visualization project with police scorecards and urban metrics. 
+#### Looking to collaborate on modeling climate variability, system simulations, policy analysis, and data visualization. 
 
 <!--
 **hvanova/hvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
