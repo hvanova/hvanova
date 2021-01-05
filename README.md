@@ -1,5 +1,4 @@
-### Pronouns: she/her
-#### Currently working on a small data visualization project with police scorecards and urban metrics. 
+#### Pronouns: she/her
 #### Looking to collaborate on modeling climate variability, system simulations, policy analysis, and data visualization. 
 
 <!--
