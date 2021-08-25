@@ -1,5 +1,10 @@
-#### Pronouns: she/her
-#### Looking to collaborate on modeling climate variability, system simulations, policy analysis, and data visualization. 
+
+### Hello! Glad you're here 🌱
+Pronouns: she/they
+
+✨ I'm currently working on a deep learning model for landcover classification. I'm interested in applying the model in risk analysis and hope to expand the model with atmospheric data. 
+
+✨ I'm always open to collaborate and am interested in climate variability, system simulation, and data visualization. 
 
 <!--
 **hvanova/hvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
