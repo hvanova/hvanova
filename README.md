@@ -4,7 +4,8 @@ Pronouns: she/they
 
 ✨ I'm currently working on a deep learning model for landcover classification. I'm interested in applying the model in risk analysis and hope to expand the model with atmospheric data. 
 
-✨ I'm always open to collaborate and am interested in climate variability, system simulation, and data visualization. 
+
+✨ I'm always open to collaborate on projects challenging commonplace systems while promoting sustainability and adaptability. My interests include climate modeling, urban environment design, and data visualization.
 
 <!--
 **hvanova/hvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
