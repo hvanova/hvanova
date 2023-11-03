@@ -2,10 +2,7 @@
 ### Hello! Glad you're here 🌱
 Pronouns: she/they
 
-✨ I'm currently working through the fast.ai course in deep learning as well as building a personal website. 
-
-
-✨ I'm always open to collaborate on projects challenging commonplace systems while promoting sustainability and adaptability. I like applying creative data science and visualization to parse complex information and make a powerful impact. 
+✨ I'm always open to collaborating on projects that challenge commonplace systems while promoting sustainability and adaptability. I like applying creative data science and visualization to parse complex information and make a powerful impact. 
 
 <!--
 **hvanova/hvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
