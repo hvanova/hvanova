@@ -1,6 +1,8 @@
 
 ### Hello! Glad you're here 🌱
-For current data visualization research, please see my [Observable @hannahvanova](https://observablehq.com/user/@hannahvanova)
+
+For current data visualization research, please see my [Observable @hannahvanova](https://observablehq.com/user/@hannahvanova).
+
 Developing projects informed by community engagement, sustainable practice, and environmental awareness. 
 
 <!--
