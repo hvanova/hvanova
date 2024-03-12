@@ -1,8 +1,8 @@
 
 ### Hello! Glad you're here 🌱
-Pronouns: she/they
+Pronouns: she/her
 
-✨ I'm always open to collaborating on projects that challenge commonplace systems while promoting sustainability and adaptability. I like applying creative data science and visualization to parse complex information and make a powerful impact. 
+For current data visualization research, please see my [Observable @hannahvanova](https://observablehq.com/user/@hannahvanova)
 
 <!--
 **hvanova/hvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
